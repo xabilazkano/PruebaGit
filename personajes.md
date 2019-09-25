@@ -6,3 +6,5 @@ Cersei Lannister
 Sansa Stark
 Jaime Lannister
 Brienne de Tarth
+Bran Stark
+Rey de la noche
